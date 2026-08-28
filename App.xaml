@@ -1,0 +1,20 @@
+﻿<Application x:Class="DRMDetector.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:DRMDetector"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <SolidColorBrush x:Key="PrimaryBackground" Color="#0D0D0D"/>
+        <SolidColorBrush x:Key="SecondaryBackground" Color="#1A1A1A"/>
+        <SolidColorBrush x:Key="CardBackground" Color="#242424"/>
+        <SolidColorBrush x:Key="PrimaryPurple" Color="#9333EA"/>
+        <SolidColorBrush x:Key="SecondaryPurple" Color="#7C3AED"/>
+        <SolidColorBrush x:Key="AccentPurple" Color="#A855F7"/>
+        <SolidColorBrush x:Key="TextPrimary" Color="#FFFFFF"/>
+        <SolidColorBrush x:Key="TextSecondary" Color="#A1A1AA"/>
+        <SolidColorBrush x:Key="BorderColor" Color="#333333"/>
+        <SolidColorBrush x:Key="SuccessGreen" Color="#22C55E"/>
+        <SolidColorBrush x:Key="WarningYellow" Color="#EAB308"/>
+        <SolidColorBrush x:Key="DangerRed" Color="#EF4444"/>
+    </Application.Resources>
+</Application>
